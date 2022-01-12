@@ -1,0 +1,34 @@
+[
+    {
+        "marked": false,
+        "name": "scooter-x",
+        "img":"https://thumbs.dreamstime.com/b/electric-scooter-isolated-white-background-eco-transport-d-rendering-alternative-concept-137444913.jpg",
+        "price": 100,
+        "charge": 100,
+        "id": 1
+    },
+    {
+        "marked": false,
+        "name": "scooter-y",
+        "img":"https://thumbs.dreamstime.com/b/electric-scooter-eco-alternative-transport-concept-white-background-including-clipping-path-174955309.jpg",
+        "price": 150,
+        "charge": 210,
+        "id": 2
+    },
+    {
+        "marked": false,
+        "name": "scooter-yxx",
+        "img":"https://thumbs.dreamstime.com/b/electric-scooter-isolated-electric-scooter-isolated-white-background-clipping-path-included-132596851.jpg",
+        "price": 200,
+        "charge": 230,
+        "id": 3
+    },
+    {
+        "marked": false,
+        "name": "Giga-Cruiser-9000",
+        "img":"https://thumbs.dreamstime.com/b/pink-scooter-standing-near-blue-brick-wall-background-200497121.jpg",
+        "price": 9000,
+        "charge": 10000,
+        "id": 4
+    }
+]
