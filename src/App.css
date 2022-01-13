@@ -5,7 +5,12 @@
 .App-link {
   color: #61dafb;
 }
-
+header{
+  margin-bottom: 1%;
+}
+header button{
+  margin: 10px;
+}
 main{
   display: flex;
   flex-wrap: wrap;
